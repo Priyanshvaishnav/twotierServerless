@@ -6,6 +6,9 @@ This project is a full-stack, serverless web application built on Amazon Web Ser
 
 The application follows a simple, scalable, and cost-effective serverless pattern.
 
+![Architecture Diagram](2TierServerless.drawio.png)
+
+
 ## Tech Stack
 
 ### Frontend:
